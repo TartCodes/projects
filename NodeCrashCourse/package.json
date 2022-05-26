@@ -1,0 +1,17 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Tartcodes",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2"
+  }
+}

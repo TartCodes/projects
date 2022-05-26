@@ -1,0 +1,15 @@
+{
+  "name": "httpsandfs",
+  "version": "1.0.0",
+  "description": "server hw for class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tart",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2"
+  }
+}
